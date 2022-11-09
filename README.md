@@ -1,3 +1,15 @@
+# Revision
+
+Patched from [https://github.com/clvv/fasd/pull/104](https://github.com/clvv/fasd/pull/104)
+
+Support `$_FASK_NOCASE=1` env property to match ignore case as default.
+
+Download the patched `fasd` binary to replace old one.
+
+```
+curl -LO https://cdn.jsdelivr.net/gh/Mopip77/fasd/master/fasd && chmod +x fasd && mv fasd /usr/local/bin/
+```
+
 # Fasd
 
 Fasd (pronounced similar to "fast") is a command-line productivity booster.
