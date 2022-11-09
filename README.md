@@ -7,7 +7,7 @@ Support `$_FASK_NOCASE=1` env property to match ignore case as default.
 Download the patched `fasd` binary to replace old one.
 
 ```
-curl -LO https://cdn.jsdelivr.net/gh/Mopip77/fasd/master/fasd && chmod +x fasd && mv fasd /usr/local/bin/
+curl -LO https://cdn.jsdelivr.net/gh/Mopip77/fasd@master/fasd && chmod +x fasd && mv fasd /usr/local/bin/
 ```
 
 # Fasd
